@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **TensorFlow NNs**
 
-- 📫 How to reach me **Can't**
+- 📫 How to reach me **Discord ID: bruhnugget.**
 
 - ⚡ Fun fact **I love regression**
 
