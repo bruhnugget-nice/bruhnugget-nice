@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruhnugget-nice" alt="bruhnugget-nice" /></a> </p>
 
-- 🔭 I’m currently working on [a blockchain project](https://github.com/bruhnugget-nice/blockchain-py/)
+- 🔭 I’m currently working on math
 
-- 🌱 I’m currently learning **basic NNs**
+- 🌱 I’m currently learning **the underlying Math behind Mamba**
 
 - 👯 I’m looking to collaborate on **big open-source**
 
-- 🤝 I’m looking for help with **LLMs**
+- 🤝 I’m looking for help with **research**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bruhnugget-nice](https://github.com/bruhnugget-nice)
 
-- 💬 Ask me about **TensorFlow NNs**
+- 💬 Ask me about **PyTorch**
 
 - 📫 How to reach me **Discord ID: bruhnugget.**
 
